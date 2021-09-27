@@ -6,4 +6,4 @@
 
 * O projeto foi feito apenas usando HTML5 e CSS.
 
-* Video mostrando o funcionamento (audio em inglês):[LINK](https://youtu.be/VRTeQ8tAM0Y)
+* Video mostrando o funcionamento (audio em inglês): [LINK](https://youtu.be/VRTeQ8tAM0Y)
